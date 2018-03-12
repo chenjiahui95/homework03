@@ -1,0 +1,15 @@
+c:\users\jiahuichen\source\repos\Homework03\Homework03\bin\Debug\Homework03.exe.config
+c:\users\jiahuichen\source\repos\Homework03\Homework03\bin\Debug\Homework03.exe
+c:\users\jiahuichen\source\repos\Homework03\Homework03\bin\Debug\Homework03.pdb
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\Homework03.csprojResolveAssemblyReference.cache
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\MainWindow.g.cs
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\App.g.cs
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\Homework03_MarkupCompile.cache
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\Homework03_MarkupCompile.lref
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\MainWindow.baml
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\Homework03.g.resources
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\Homework03.Properties.Resources.resources
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\Homework03.csproj.GenerateResource.Cache
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\Homework03.csproj.CoreCompileInputs.cache
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\Homework03.exe
+c:\users\jiahuichen\source\repos\Homework03\Homework03\obj\Debug\Homework03.pdb
